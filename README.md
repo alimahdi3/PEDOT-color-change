@@ -1,3 +1,4 @@
-Script used to analyze color change in PEDOT:PSS, a conductive polymer, when a gate voltage is applied.
-testing
-testing 2
+# Detecting Change in Intensity of Color in a Video
+
+Detecting changes over time in a video is important for many fields of study. Whether it be detecting an obeject changing shape, size, or color, this concept is universal in many kinds of analyses. In this tutorial, the intensity of blue of an electrochromic material, PEDOT:PSS, is observed and plotted dynamically. The term "electrochromic" describes a certain class of materials that change color when a voltage is applied. These materials are important for various applications including biosensing and smart windows. In this tutorial, a video is shown where a PEDOT:PSS film is initially transparent. Upon applying a voltage (roughly halfway through the video), the film  changes blue. The film became transparent again once the voltage was removed. Although detecting change in color intensity over time is generally useful, this particular analysis can be useful in several ways specifically for materials scientists. For example,  
+
