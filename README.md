@@ -19,3 +19,7 @@ One way of being able to tell when the voltage is being applied (and hence the f
 ![intensity of blue pixels changing over time](./images/AnimatedPlot.gif)
 
 Figure 2: Dynamic plot demonstrating how the intensity of the blue film changes over time.
+
+## Summary and Future Outlook
+
+Understanding the physics of electrochromic materials such as PEDOT:PSS is essential for smart windows and biosensors. Analyses such as the one presented in this tutorial can be very useful in understanding these systems better. Future directions of this project include correlating this optical data with electrochemical circuits to understand how these materials properites relate to each other, as well as using this data with a diffusion/drift equation solver to understand the ionic motion in the polymeric film.  
