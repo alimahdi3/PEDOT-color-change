@@ -16,7 +16,7 @@ The PEDOT:PSS film is initially transparent and becomes blue as a voltage is app
 
 One way of being able to tell when the voltage is being applied (and hence the film is changing color) is by applying a mask to each frame in the video. The maks works in the following way. Based on a certain range in the HSV color model, only blue pixels will be left in an image. The rest of the pixels will be blacked out. In addition, the HSV values of the blue pixels for each image can then be used to quantify the intnsity of blue over time in the video. After this step, the data for the blue pixel intensity over time can be presented in many ways. In this tutorial, a dynamic plot was generated with the data and is shown below.
 
-![intensity of blue pixels changing over time](./images/AnimatedPlot.gif)
+![intensity of blue pixels changing over time](./images/animated_plot.gif)
 
 Figure 2: Dynamic plot demonstrating how the intensity of the blue film changes over time.
 
